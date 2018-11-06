@@ -1,0 +1,5 @@
+public class PassObject{
+  public static void main(String[] args){
+    System.out.printlb("Hello World");
+    }
+  }
