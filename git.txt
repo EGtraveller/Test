@@ -1,0 +1,38 @@
+复制粘贴
+shift+insert
+
+新建
+git status-->查看状态
+git add-->提交
+git status-->查看状态
+git commit-m  -->“提交描述”
+
+修改
+
+克隆
+git config --list //验证初始化
+git clone 仓库地址
+
+
+四步：
+1.创建文件
+touch
+2.添加文件到暂存区
+git add
+3.添加到本地仓库
+git commit -m
+4.添加到远程仓库
+git push
+
+将本地仓库提交到远程仓库
+git push
+
+
+git config --global user.name 'EGtraveller'
+git config --global user.email 'huangxg121@qq.com'
+
+
+mkdir test  //创建文件夹
+cd test  //进入test文件夹
+git init  //初始化git
+touch xxx  //创建文件
